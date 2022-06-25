@@ -1,0 +1,43 @@
+{
+  "name": "reform",
+  "version": "1.0.0",
+  "description": "a simple validated react form",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "react",
+    "form",
+    "validation",
+    "form"
+  ],
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.12",
+    "@babel/preset-env": "^7.17.12",
+    "@babel/preset-react": "^7.17.12",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-merge": "^5.8.0",
+    "style-loader": "^3.3.1"
+  },
+  "author": "jumauh uthman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luckey-coder/reform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luckey-coder/reform/issues"
+  },
+  "homepage": "https://github.com/Luckey-coder/reform#readme"
+}
