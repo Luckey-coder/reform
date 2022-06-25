@@ -8,7 +8,7 @@ or form validation. with Reform, you will be able to write less and clean code f
 ## Installation
 
 ```sh
-git clone https://github.com/Luckey-coder/reform.git
+npm install reform
 ```
 
 ## Usage
